@@ -2,3 +2,5 @@
 # About the project
 
 *Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
+Is is really so that I am supposed to write here something? I tried to clone the repository from GitHub to GitHub Desktop, but I didn´t manage. Perhaps help on next Thursday? https://github.com/Jersey2/IODS-project
+And then?
